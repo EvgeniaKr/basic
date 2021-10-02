@@ -1,1 +1,1 @@
-https://github.com/evgeniakr/basic-js
+https://github.com/evgeniakr/basic/
