@@ -1,1 +1,1 @@
-# basic
+https://github.com/evgeniakr/basic-js
